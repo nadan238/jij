@@ -1,1 +1,2 @@
-# jij
+# Banking Fraud detection project
+
